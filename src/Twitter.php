@@ -7,7 +7,7 @@
  *      * Papi_Oauth
  *
  *  @version 0.2.0
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/papi
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  *
  *  See also
