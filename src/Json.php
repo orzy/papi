@@ -6,7 +6,7 @@
  *      * Papi_Base
  *
  *  @version 0.2.1
- *  @see     http://code.google.com/p/papi/
+ *  @see     https://github.com/orzy/papi
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 class Papi_Json extends Papi_Base {
